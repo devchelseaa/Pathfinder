@@ -1,0 +1,9 @@
+ValidMap1.txt - a valid map, an A* path can be found between start and exit squares
+ValidMap2.txt - a valid map, an A* path can be found between start and exit squares
+ValidMapNoPath1 - a valid map but no A* path can be found between start and exit squares
+ValidMapNoPath2 - a valid map but no A* path can be found between start and exit squares
+InvalidMap1 - invalid because it has no start square
+InvalidMap2 - invalid because it has no exit square
+InvalidMap3 - invalid because it has two start squares
+InvalidMap4 - invalid because it has two exit squares
+InvalidMap5 - invalid because it does not have exactly ten items

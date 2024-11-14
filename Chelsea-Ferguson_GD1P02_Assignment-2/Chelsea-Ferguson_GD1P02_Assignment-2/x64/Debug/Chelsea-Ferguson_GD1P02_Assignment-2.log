@@ -1,0 +1,4 @@
+﻿  AStar.cpp
+C:\Users\Chelsea\source\repos\Chelsea-Ferguson_GD1P02_Assignment-2\Chelsea-Ferguson_GD1P02_Assignment-2\AStar.cpp(5,40): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Chelsea\source\repos\Chelsea-Ferguson_GD1P02_Assignment-2\Chelsea-Ferguson_GD1P02_Assignment-2\AStar.cpp(10,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Chelsea-Ferguson_GD1P02_Assignment-2.vcxproj -> C:\Users\Chelsea\source\repos\Chelsea-Ferguson_GD1P02_Assignment-2\x64\Debug\Chelsea-Ferguson_GD1P02_Assignment-2.exe
